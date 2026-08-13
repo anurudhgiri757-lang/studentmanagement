@@ -1,0 +1,432 @@
+{
+  "users": [
+    {
+      "id": "ed32cc9d-15d3-44da-aede-8530b715a367",
+      "full_name": "shiva",
+      "username": "giri",
+      "email": "sg4545@gmail.com",
+      "phone": "9807478190",
+      "role": "admin",
+      "password_hash": "f0417e67e532614c3a521d38dbe2f460eabb3a33d6f4a7fb4f70e136c993af69",
+      "created_at": "2026-08-13T07:41:41.989649+00:00"
+    },
+    {
+      "id": "c0c172aa-dc7a-4152-b2b7-626d9233f3c1",
+      "full_name": "aman",
+      "username": "aman",
+      "email": "aman@gmail.com",
+      "phone": "98767677",
+      "role": "student",
+      "password_hash": "d7bdef53672e3c594c83375e928b088c886e4950838064fe772127308d19dbbb",
+      "created_at": "2026-08-13T09:01:52.237479+00:00"
+    }
+  ],
+  "students": [
+    {
+      "id": "5d022aca-d49f-4bf7-815c-838b20e681ad",
+      "full_name": "ram",
+      "student_id": "1",
+      "grade_level": "10",
+      "email": "ram@gmail.com",
+      "phone": "9807654321",
+      "guardian_name": "ghanshyam",
+      "address": "mayadevi-1",
+      "medical_info": "",
+      "created_at": "2026-08-13T07:44:25.575449+00:00"
+    },
+    {
+      "id": "2f6237b3-3a8d-46d5-8e0d-8591d606df91",
+      "full_name": "santosh yadav",
+      "student_id": "4",
+      "grade_level": "12",
+      "email": "san@gmail.com",
+      "phone": "985646546",
+      "guardian_name": "brindera yadav",
+      "address": "mayadevi-5",
+      "medical_info": "",
+      "created_at": "2026-08-13T08:13:14.751687+00:00"
+    },
+    {
+      "id": "4c9ec936-d3b3-45cc-a99c-312e71428fd3",
+      "full_name": "santosh panday",
+      "student_id": "5",
+      "grade_level": "9",
+      "email": "pa@gmail.com",
+      "phone": "9856434556",
+      "guardian_name": "shivsankar yadav",
+      "address": "mayadevi-7",
+      "medical_info": "",
+      "created_at": "2026-08-13T08:14:27.895213+00:00"
+    },
+    {
+      "id": "be0cef00-d1ed-4d82-95a6-65b052074a88",
+      "full_name": "dinesh panday",
+      "student_id": "6",
+      "grade_level": "10",
+      "email": "din@gmail.com",
+      "phone": "98564345",
+      "guardian_name": "sanskar panday",
+      "address": "mayadevi-7",
+      "medical_info": "",
+      "created_at": "2026-08-13T08:15:29.904194+00:00"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "4943d5e2-2ec4-4436-a5e7-fb3d812de575",
+      "full_name": "manoj",
+      "employee_id": "01",
+      "department": "general",
+      "qualification": "master in math",
+      "subject": "math",
+      "email": "manoj@gmail.com",
+      "phone": "98075858686",
+      "salary": 45000.0,
+      "created_at": "2026-08-13T07:45:56.608510+00:00"
+    },
+    {
+      "id": "e412246a-1c9c-4e2b-9ad7-3b1e1cfb5ebf",
+      "full_name": "hari",
+      "employee_id": "02",
+      "department": "technical",
+      "qualification": "master in math",
+      "subject": "math",
+      "email": "hari@gmail.com",
+      "phone": "9807585834",
+      "salary": 45000.0,
+      "created_at": "2026-08-13T07:46:50.967073+00:00"
+    },
+    {
+      "id": "edeebf30-1355-42af-86d9-656e217efe15",
+      "full_name": "mohan",
+      "employee_id": "03",
+      "department": "general",
+      "qualification": "master in science",
+      "subject": "science",
+      "email": "mohan@gmail.com",
+      "phone": "9807586565",
+      "salary": 50000.0,
+      "created_at": "2026-08-13T07:48:00.951607+00:00"
+    }
+  ],
+  "parents": [
+    {
+      "id": "97015f85-d661-4bac-9051-d784b13aea5a",
+      "full_name": "ramprsad yadav",
+      "email": "ramparsad@gmail.com",
+      "phone": "9845747575",
+      "occupation": "business",
+      "emergency_contact": "",
+      "created_at": "2026-08-13T07:48:51.876761+00:00"
+    },
+    {
+      "id": "7233832d-97b7-4794-86d2-8a3c54152477",
+      "full_name": "hariom shrama",
+      "email": "om@gmail.com",
+      "phone": "9845734455",
+      "occupation": "agariculter",
+      "emergency_contact": "989076657",
+      "created_at": "2026-08-13T07:50:16.629934+00:00"
+    },
+    {
+      "id": "829c2738-7e00-4a38-859f-9ee1b75368da",
+      "full_name": "hariom sharma",
+      "email": "hari@gmail.com",
+      "phone": "988879087",
+      "occupation": "talior",
+      "emergency_contact": "987667778",
+      "created_at": "2026-08-13T08:16:32.662768+00:00"
+    },
+    {
+      "id": "e1aa4fa4-e37c-4e0b-836d-a00f259ad6fb",
+      "full_name": "Ajay kumar harijan",
+      "email": "kumar@gmail.com",
+      "phone": "98789655766",
+      "occupation": "contactor",
+      "emergency_contact": "986567634",
+      "created_at": "2026-08-13T08:17:49.413189+00:00"
+    }
+  ],
+  "classes": [
+    {
+      "id": "e2957522-04d2-402a-bd8f-22fc812713f8",
+      "name": "10",
+      "teacher": "manoj",
+      "subjects": "math",
+      "section": "A",
+      "room_number": "124",
+      "capacity": 45,
+      "created_at": "2026-08-13T08:19:01.166988+00:00"
+    },
+    {
+      "id": "45aceb83-3203-4c75-aed8-0997fb18786b",
+      "name": "10",
+      "teacher": "mohan",
+      "subjects": "science",
+      "section": "B",
+      "room_number": "125",
+      "capacity": 45,
+      "created_at": "2026-08-13T08:19:46.758783+00:00"
+    }
+  ],
+  "modules": [],
+  "attendance": [
+    {
+      "id": "2d5c286a-dfb1-48ec-8352-7394dc9cf41e",
+      "student_id": "1",
+      "date": "2026-08-13",
+      "status": "Present",
+      "created_at": "2026-08-13T08:20:03.121692+00:00"
+    },
+    {
+      "id": "99a4c79e-90e2-492d-bfd2-80e7b5cca66f",
+      "student_id": "4",
+      "date": "2026-08-13",
+      "status": "Present",
+      "created_at": "2026-08-13T08:20:07.352876+00:00"
+    },
+    {
+      "id": "985c41e1-d5fd-4c1b-a215-91e303bf3bd3",
+      "student_id": "5",
+      "date": "2026-08-13",
+      "status": "Present",
+      "created_at": "2026-08-13T08:20:10.786100+00:00"
+    },
+    {
+      "id": "d3ad7f51-80d1-4802-a5bd-5f723e919873",
+      "student_id": "6",
+      "date": "2026-08-13",
+      "status": "Present",
+      "created_at": "2026-08-13T08:20:13.913626+00:00"
+    }
+  ],
+  "exams": [
+    {
+      "id": "ac470817-ba7b-4b6b-93ae-8aa92f4fe86a",
+      "name": "half yearly examination",
+      "subject": "math",
+      "schedule": "8:00",
+      "hall": "10",
+      "created_at": "2026-08-13T08:21:52.064587+00:00"
+    }
+  ],
+  "marks": [
+    {
+      "id": "03011d0f-0342-4bf8-8424-231d511086e2",
+      "student_id": "6",
+      "subject": "math",
+      "marks": 50.0,
+      "created_at": "2026-08-13T08:22:13.541647+00:00"
+    },
+    {
+      "id": "8a4ee840-aa2c-4674-9dfa-603117baea74",
+      "student_id": "4",
+      "subject": "science",
+      "marks": 60.0,
+      "created_at": "2026-08-13T08:22:39.475047+00:00"
+    }
+  ],
+  "fees": [
+    {
+      "id": "cb18a741-7774-4c8d-b027-18fae799eabc",
+      "student_id": "4",
+      "kind": "Monthly",
+      "amount": 1200.0,
+      "status": "Paid",
+      "created_at": "2026-08-13T08:23:17.879488+00:00"
+    },
+    {
+      "id": "da3a899c-ffc8-469d-9821-4bd4c8db0e85",
+      "student_id": "1",
+      "kind": "Monthly",
+      "amount": 1200.0,
+      "status": "Paid",
+      "created_at": "2026-08-13T08:23:25.855001+00:00"
+    },
+    {
+      "id": "4b22a1ad-e7ea-4081-a177-e9d9c9546c02",
+      "student_id": "6",
+      "kind": "Monthly",
+      "amount": 1200.0,
+      "status": "Paid",
+      "created_at": "2026-08-13T08:23:31.793225+00:00"
+    },
+    {
+      "id": "4db46d47-ebb7-4cf9-9816-54b55e6e19fd",
+      "student_id": "5",
+      "kind": "Monthly",
+      "amount": 1200.0,
+      "status": "Pending",
+      "created_at": "2026-08-13T08:23:49.138168+00:00"
+    }
+  ],
+  "payments": [],
+  "timetable": [
+    {
+      "id": "28bc6f1f-6319-4d54-b8fc-9c651a2e34cc",
+      "day": "Monday",
+      "period": "1",
+      "subject": "math",
+      "teacher": "manoj",
+      "room": "124",
+      "created_at": "2026-08-13T08:24:31.269354+00:00",
+      "updated_at": "2026-08-13T08:24:31.592342+00:00"
+    },
+    {
+      "id": "37de0c09-e1fc-465a-bc0e-30150b226b25",
+      "day": "Monday",
+      "period": "1",
+      "subject": "math",
+      "teacher": "mohan",
+      "room": "124",
+      "created_at": "2026-08-13T08:24:48.30086+00:00",
+      "updated_at": "2026-08-13T08:24:48.615926+00:00"
+    },
+    {
+      "id": "ec8751f0-229a-4a82-9aad-03b068a280b6",
+      "day": "Monday",
+      "period": "1",
+      "subject": "science",
+      "teacher": "hari",
+      "room": "124",
+      "created_at": "2026-08-13T08:25:11.740739+00:00",
+      "updated_at": "2026-08-13T08:25:12.022234+00:00"
+    }
+  ],
+  "announcements": [
+    {
+      "id": "711887e1-02a5-4e9b-8796-5e811f79bacf",
+      "title": "festival holiday",
+      "body": "Our school going to be close till to days in the occussion of rashabandhan festival. so it is informed to all come on 2083-05-15 . come on time.",
+      "audience": "All",
+      "created_at": "2026-08-13T08:28:09.111249+00:00"
+    }
+  ],
+  "library_books": [
+    {
+      "id": "dc31be05-6d85-44b1-bd68-c2b60fde1d83",
+      "title": "ramayan",
+      "author": "balmiki",
+      "category": "religous",
+      "copies": 1,
+      "created_at": "2026-08-13T08:29:00.670705+00:00"
+    }
+  ],
+  "issued_books": [],
+  "transport": [
+    {
+      "id": "2c0fb601-3bed-4171-b845-0104b57edd38",
+      "name": "hulak road",
+      "driver": "pinku",
+      "route": "baluhawa to taulihawa",
+      "capacity": 50,
+      "created_at": "2026-08-13T08:30:24.422848+00:00",
+      "updated_at": "2026-08-13T08:30:24.897243+00:00"
+    }
+  ],
+  "vehicles": [],
+  "inventory": [
+    {
+      "id": "1b6d8736-e259-4c7f-9eb4-6f9a563defec",
+      "name": "exam copies",
+      "category": "educational material",
+      "quantity": 1000,
+      "location": "mayadevi-7 , lalpur",
+      "created_at": "2026-08-13T08:32:12.439985+00:00"
+    }
+  ],
+  "notifications": [],
+  "audit_logs": [
+    {
+      "id": "4655e1a4-fc9c-4f6d-b63e-fce7240d219e",
+      "action": "register_user",
+      "detail": "Registered sg4545@gmail.com",
+      "user_id": "ed32cc9d-15d3-44da-aede-8530b715a367",
+      "created_at": "2026-08-13T07:41:43.308451+00:00"
+    },
+    {
+      "id": "1debb47b-3d2d-4641-972f-54b1cd2cf10f",
+      "action": "create_student",
+      "detail": "Created student 1",
+      "user_id": null,
+      "created_at": "2026-08-13T07:44:25.785196+00:00"
+    },
+    {
+      "id": "db328b7f-7aee-4ef7-9a9d-732405b4810d",
+      "action": "create_teacher",
+      "detail": "Created teacher 01",
+      "user_id": null,
+      "created_at": "2026-08-13T07:45:56.822379+00:00"
+    },
+    {
+      "id": "55f798cd-4441-476d-a5a3-911f78c58197",
+      "action": "create_teacher",
+      "detail": "Created teacher 02",
+      "user_id": null,
+      "created_at": "2026-08-13T07:46:51.442001+00:00"
+    },
+    {
+      "id": "65f6915d-58e1-41ae-b641-c5f67513228d",
+      "action": "create_teacher",
+      "detail": "Created teacher 03",
+      "user_id": null,
+      "created_at": "2026-08-13T07:48:00.990267+00:00"
+    },
+    {
+      "id": "d514199a-7ce6-4115-bed3-b5e709263ce8",
+      "action": "create_parent",
+      "detail": "Created parent ramprsad yadav",
+      "user_id": null,
+      "created_at": "2026-08-13T07:48:51.914416+00:00"
+    },
+    {
+      "id": "2c205beb-0080-4ea3-9549-01c2a731999a",
+      "action": "create_parent",
+      "detail": "Created parent hariom shrama",
+      "user_id": null,
+      "created_at": "2026-08-13T07:50:16.687355+00:00"
+    },
+    {
+      "id": "351b9879-cc02-4d93-bff4-54b70bb0172e",
+      "action": "create_student",
+      "detail": "Created student 4",
+      "user_id": null,
+      "created_at": "2026-08-13T08:13:16.121225+00:00"
+    },
+    {
+      "id": "d97f92b3-7787-4337-a4eb-7219a4786806",
+      "action": "create_student",
+      "detail": "Created student 5",
+      "user_id": null,
+      "created_at": "2026-08-13T08:14:29.969976+00:00"
+    },
+    {
+      "id": "823cad3b-1eb6-42fe-908d-afb515c71a75",
+      "action": "create_student",
+      "detail": "Created student 6",
+      "user_id": null,
+      "created_at": "2026-08-13T08:15:30.389106+00:00"
+    },
+    {
+      "id": "8330b9a3-826d-45a3-8076-fcc86f366d44",
+      "action": "create_parent",
+      "detail": "Created parent hariom sharma",
+      "user_id": null,
+      "created_at": "2026-08-13T08:16:33.086115+00:00"
+    },
+    {
+      "id": "b65a24cc-e1fb-47e3-b40a-0d66dd1793dc",
+      "action": "create_parent",
+      "detail": "Created parent Ajay kumar harijan",
+      "user_id": null,
+      "created_at": "2026-08-13T08:17:49.728788+00:00"
+    },
+    {
+      "id": "16779cf3-0f79-4f5e-b268-699ca8d64df1",
+      "action": "register_user",
+      "detail": "Registered aman@gmail.com",
+      "user_id": "c0c172aa-dc7a-4152-b2b7-626d9233f3c1",
+      "created_at": "2026-08-13T09:01:54.878095+00:00"
+    }
+  ]
+}
