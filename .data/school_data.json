@@ -1,0 +1,407 @@
+{
+  "users": [
+    {
+      "id": "b1d2a69d-b154-445f-87af-9cc2d2a46649",
+      "full_name": "Ada Lovelace",
+      "username": "ada",
+      "email": "ada@example.com",
+      "phone": "1234567890",
+      "role": "admin",
+      "password_hash": "47c874d64d078ba84a8330de1abc7a1e8a9a35c4cb6807b6651d29f55a7adb96",
+      "created_at": "2026-08-07T06:09:09.541537+00:00"
+    },
+    {
+      "id": "c40530a2-16fb-4cc7-8692-3149271bd6f6",
+      "full_name": "shiva",
+      "username": "shiva",
+      "email": "sg4545@gmail.com",
+      "phone": "9807474190",
+      "role": "admin",
+      "password_hash": "f0417e67e532614c3a521d38dbe2f460eabb3a33d6f4a7fb4f70e136c993af69",
+      "created_at": "2026-08-07T06:26:03.087926+00:00"
+    },
+    {
+      "id": "855961d2-2a11-437d-8a39-56953880d037",
+      "full_name": "ramesh ",
+      "username": "yadav",
+      "email": "ramesh@gmail.com",
+      "phone": "980890789",
+      "role": "teacher",
+      "password_hash": "9d7f9274f50bccab7b891cee1d004e05df80701060f02bf34f16abe40c516226",
+      "created_at": "2026-08-07T07:48:33.499808+00:00"
+    },
+    {
+      "id": "fe9785ca-9c68-448f-8338-4afd915fd1d5",
+      "full_name": "dhramender",
+      "username": "dhramender",
+      "email": "yadav@gmail.com",
+      "phone": "989789897",
+      "role": "student",
+      "password_hash": "353b8c151ca5fb9cd39a8d6a7ceacaa7374244394854b3d16546745da635c067",
+      "created_at": "2026-08-12T06:28:41.019201+00:00"
+    }
+  ],
+  "students": [
+    {
+      "id": "af28389e-4daa-4ab3-96ba-41907c653165",
+      "full_name": "Ben Carter",
+      "student_id": "STU001",
+      "grade_level": "Grade 8",
+      "email": "ben@example.com",
+      "phone": "5551112222",
+      "guardian_name": "Carol Carter",
+      "address": "123 Main St",
+      "medical_info": "None",
+      "created_at": "2026-08-07T06:09:09.725260+00:00"
+    },
+    {
+      "id": "1aa0837d-3205-475d-bec5-b433f2a4be8b",
+      "full_name": "Ben Carter",
+      "student_id": "STU001",
+      "grade_level": "Grade 8",
+      "email": "ben@example.com",
+      "phone": "5551112222",
+      "guardian_name": "Carol Carter",
+      "address": "123 Main St",
+      "medical_info": "None",
+      "created_at": "2026-08-07T06:16:29.271962+00:00"
+    },
+    {
+      "id": "e5dfd57b-2692-4da3-8fd7-6a9380b763fc",
+      "full_name": "Ben Carter",
+      "student_id": "STU001",
+      "grade_level": "Grade 8",
+      "email": "ben@example.com",
+      "phone": "5551112222",
+      "guardian_name": "Carol Carter",
+      "address": "123 Main St",
+      "medical_info": "None",
+      "created_at": "2026-08-07T06:17:20.595046+00:00"
+    },
+    {
+      "id": "f4f22ac4-9d95-43ae-9451-7569a147b7c8",
+      "full_name": "manoj yadav",
+      "student_id": "001",
+      "grade_level": "12",
+      "email": "manoj@gmail.com",
+      "phone": "980706050",
+      "guardian_name": "raj jumar yadav",
+      "address": "mayadevi-5",
+      "medical_info": "",
+      "created_at": "2026-08-07T06:43:08.595245+00:00"
+    },
+    {
+      "id": "513d29fe-4ed3-4b83-83cb-20e56ae06daf",
+      "full_name": "ajay",
+      "student_id": "006",
+      "grade_level": "10",
+      "email": "ajay@gmail.com",
+      "phone": "988778897",
+      "guardian_name": "bhimarawo",
+      "address": "mayadevi-3",
+      "medical_info": "",
+      "created_at": "2026-08-07T07:29:05.650161+00:00"
+    },
+    {
+      "id": "f99ec099-a4cc-493f-9fb1-a0efaf400ddc",
+      "full_name": "mahima",
+      "student_id": "0023",
+      "grade_level": "9",
+      "email": "mahi@gmail.com",
+      "phone": "9878657866",
+      "guardian_name": "anup kumar ",
+      "address": "mayadevi-5",
+      "medical_info": "",
+      "created_at": "2026-08-07T08:39:32.487666+00:00"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "d4254d83-0ff8-4038-9d3e-4c97df7a7f6f",
+      "full_name": "Dina Lee",
+      "employee_id": "TCH001",
+      "department": "Science",
+      "qualification": "MSc",
+      "subject": "Physics",
+      "email": "dina@example.com",
+      "phone": "5553334444",
+      "salary": 95000,
+      "created_at": "2026-08-07T06:09:09.750910+00:00"
+    },
+    {
+      "id": "422b7951-cd10-4a43-b25a-c3373c37b4cd",
+      "full_name": "Dina Lee",
+      "employee_id": "TCH001",
+      "department": "Science",
+      "qualification": "MSc",
+      "subject": "Physics",
+      "email": "dina@example.com",
+      "phone": "5553334444",
+      "salary": 95000,
+      "created_at": "2026-08-07T06:16:29.334346+00:00"
+    },
+    {
+      "id": "4feed661-be9f-4c21-8133-0096693c566c",
+      "full_name": "Dina Lee",
+      "employee_id": "TCH001",
+      "department": "Science",
+      "qualification": "MSc",
+      "subject": "Physics",
+      "email": "dina@example.com",
+      "phone": "5553334444",
+      "salary": 95000,
+      "created_at": "2026-08-07T06:17:20.638352+00:00"
+    },
+    {
+      "id": "915a5a8d-b93d-46ab-bd41-4f5ccad885c8",
+      "full_name": "ramesh yadav",
+      "employee_id": "124",
+      "department": "technical",
+      "qualification": "master in computer",
+      "subject": "python",
+      "email": "ramesh@gmail.com",
+      "phone": "98076464745",
+      "salary": 600000.0,
+      "created_at": "2026-08-07T06:44:50.104287+00:00"
+    },
+    {
+      "id": "c8ef8bf3-b68c-4a79-b3da-20d87117174b",
+      "full_name": "manoj chaudhary",
+      "employee_id": "12",
+      "department": "general",
+      "qualification": "master degree in math",
+      "subject": "math",
+      "email": "manoj@gmai.com",
+      "phone": "9887676786",
+      "salary": 45000.0,
+      "created_at": "2026-08-07T09:05:37.936461+00:00"
+    }
+  ],
+  "parents": [
+    {
+      "id": "8da77103-df60-4147-8549-0ebd19bb8186",
+      "full_name": "sunita pasi",
+      "email": "sunita@gmail.com",
+      "phone": "9876564575",
+      "occupation": "agriculter",
+      "emergency_contact": "978765765",
+      "created_at": "2026-08-07T06:46:19.098547+00:00"
+    }
+  ],
+  "classes": [
+    {
+      "id": "811b9028-e56f-4d72-886f-24c7c44c165f",
+      "name": "3rd",
+      "teacher": "niraj sir",
+      "subjects": "social",
+      "section": "A",
+      "room_number": "123",
+      "capacity": 45,
+      "created_at": "2026-08-07T07:02:49.793111+00:00"
+    }
+  ],
+  "attendance": [
+    {
+      "id": "50c629e2-54cb-41f2-903d-5cee9d050071",
+      "student_id": "001",
+      "date": "2026-08-07",
+      "status": "Present",
+      "created_at": "2026-08-07T07:03:14.227138+00:00"
+    },
+    {
+      "id": "4d0a47b5-a063-46e6-9d9c-8cd5658a97f0",
+      "student_id": "006",
+      "date": "2026-08-07",
+      "status": "Late",
+      "created_at": "2026-08-07T07:49:47.438325+00:00"
+    }
+  ],
+  "exams": [
+    {
+      "id": "50777dd4-e2fb-4ced-87bd-e481c0c59a49",
+      "name": "half year examination",
+      "subject": "math",
+      "schedule": "3th augest",
+      "hall": "125",
+      "created_at": "2026-08-07T07:04:57.755953+00:00"
+    }
+  ],
+  "marks": [
+    {
+      "id": "fe64561c-b288-44cd-8afa-6362b24abe42",
+      "student_id": "001",
+      "subject": "math",
+      "marks": 50.0,
+      "created_at": "2026-08-07T07:05:14.517598+00:00"
+    }
+  ],
+  "fees": [
+    {
+      "id": "5eeb2e26-c203-408e-bdbd-207b48f773d1",
+      "student_id": "001",
+      "kind": "Admission",
+      "amount": 1000.0,
+      "status": "Paid",
+      "created_at": "2026-08-07T07:05:30.976915+00:00"
+    },
+    {
+      "id": "26f81c02-53a8-4ebc-9d41-efe237df01df",
+      "student_id": "001",
+      "kind": "Admission",
+      "amount": 1000.0,
+      "status": "Overdue",
+      "created_at": "2026-08-07T07:05:40.745766+00:00"
+    }
+  ],
+  "payments": [],
+  "timetable": [
+    {
+      "id": "766030dd-e18f-45fb-a23b-98e04413ee66",
+      "day": "sunday",
+      "period": "1st",
+      "subject": "software engineering",
+      "teacher": "ramesh sir",
+      "room": "5",
+      "created_at": "2026-08-07T07:07:27.553844+00:00"
+    }
+  ],
+  "announcements": [
+    {
+      "id": "4d6d8f21-19cf-4066-a1e4-a71ed26a29e1",
+      "title": "result publish",
+      "body": "it is informed to all that your result will going to publish today",
+      "audience": "All",
+      "created_at": "2026-08-12T07:15:59.363211+00:00"
+    }
+  ],
+  "library_books": [
+    {
+      "id": "e1e807c9-bfe7-4aac-a29d-7999400014f9",
+      "title": "harrypotter",
+      "author": "shiva",
+      "category": "fantesy",
+      "copies": 1,
+      "created_at": "2026-08-12T07:05:26.218121+00:00"
+    }
+  ],
+  "issued_books": [],
+  "transport": [],
+  "vehicles": [],
+  "inventory": [],
+  "notifications": [],
+  "audit_logs": [
+    {
+      "id": "a603fb5a-8ccb-4365-913d-5e153b9ad603",
+      "action": "register_user",
+      "detail": "Registered ada@example.com",
+      "user_id": "b1d2a69d-b154-445f-87af-9cc2d2a46649",
+      "created_at": "2026-08-07T06:09:09.584562+00:00"
+    },
+    {
+      "id": "ba7e58b8-90b2-4da4-86b2-bd9292f18d40",
+      "action": "create_student",
+      "detail": "Created student STU001",
+      "user_id": null,
+      "created_at": "2026-08-07T06:09:09.737473+00:00"
+    },
+    {
+      "id": "8b5bf924-89d2-4a4f-83d3-0cb44523729a",
+      "action": "create_teacher",
+      "detail": "Created teacher TCH001",
+      "user_id": null,
+      "created_at": "2026-08-07T06:09:09.762049+00:00"
+    },
+    {
+      "id": "f126ed20-7688-4b18-a214-2fa60debddf4",
+      "action": "create_student",
+      "detail": "Created student STU001",
+      "user_id": null,
+      "created_at": "2026-08-07T06:16:29.289265+00:00"
+    },
+    {
+      "id": "bdce2c70-fcf6-4b08-bbed-12d4760ce376",
+      "action": "create_teacher",
+      "detail": "Created teacher TCH001",
+      "user_id": null,
+      "created_at": "2026-08-07T06:16:29.347513+00:00"
+    },
+    {
+      "id": "67e887a7-9a04-40de-a8bd-5b5219342006",
+      "action": "create_student",
+      "detail": "Created student STU001",
+      "user_id": null,
+      "created_at": "2026-08-07T06:17:20.605940+00:00"
+    },
+    {
+      "id": "3b635e96-b01a-4f73-a890-1213b7ee4cae",
+      "action": "create_teacher",
+      "detail": "Created teacher TCH001",
+      "user_id": null,
+      "created_at": "2026-08-07T06:17:20.648720+00:00"
+    },
+    {
+      "id": "b31121fc-e18f-47dc-8eb3-ad121ff9fb92",
+      "action": "register_user",
+      "detail": "Registered sg4545@gmail.com",
+      "user_id": "c40530a2-16fb-4cc7-8692-3149271bd6f6",
+      "created_at": "2026-08-07T06:26:03.129415+00:00"
+    },
+    {
+      "id": "b5101898-6b94-4bb9-b9a5-f60c479e856f",
+      "action": "create_student",
+      "detail": "Created student 001",
+      "user_id": null,
+      "created_at": "2026-08-07T06:43:09.388062+00:00"
+    },
+    {
+      "id": "5ef54745-8d09-4a5d-b9a3-5c9d88d63dfc",
+      "action": "create_teacher",
+      "detail": "Created teacher 124",
+      "user_id": null,
+      "created_at": "2026-08-07T06:44:51.097143+00:00"
+    },
+    {
+      "id": "813a8320-ad7a-4f99-a9ee-3cb2c86d0f43",
+      "action": "create_parent",
+      "detail": "Created parent sunita pasi",
+      "user_id": null,
+      "created_at": "2026-08-07T06:46:19.169163+00:00"
+    },
+    {
+      "id": "39ffc3da-3cad-4f50-919d-2acae15955f6",
+      "action": "create_student",
+      "detail": "Created student 006",
+      "user_id": null,
+      "created_at": "2026-08-07T07:29:07.920402+00:00"
+    },
+    {
+      "id": "434ad861-58bf-4beb-9ba4-ba20e3938278",
+      "action": "register_user",
+      "detail": "Registered ramesh@gmail.com",
+      "user_id": "855961d2-2a11-437d-8a39-56953880d037",
+      "created_at": "2026-08-07T07:48:40.741068+00:00"
+    },
+    {
+      "id": "7decba90-0c9d-49ad-a8fa-fbc1fc6d3c58",
+      "action": "create_student",
+      "detail": "Created student 0023",
+      "user_id": null,
+      "created_at": "2026-08-07T08:39:44.642679+00:00"
+    },
+    {
+      "id": "588baee3-a998-493e-a460-120151d9a2f7",
+      "action": "create_teacher",
+      "detail": "Created teacher 12",
+      "user_id": null,
+      "created_at": "2026-08-07T09:05:41.014443+00:00"
+    },
+    {
+      "id": "c5675bf6-a25f-4dd7-b94c-9f2731e527a1",
+      "action": "register_user",
+      "detail": "Registered yadav@gmail.com",
+      "user_id": "fe9785ca-9c68-448f-8338-4afd915fd1d5",
+      "created_at": "2026-08-12T06:28:46.778115+00:00"
+    }
+  ],
+  "modules": []
+}
